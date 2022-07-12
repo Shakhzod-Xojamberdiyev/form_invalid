@@ -239,7 +239,7 @@
 .line{
     display: block;
     width: 498px;
-    height: 2px;
+    height: 1px;
     margin-top: 11px;
     background-color: black;
 }
@@ -357,7 +357,7 @@
 .line-4{
     display: block;
     width: 498px;
-    height: 2px;
+    height:1px;
     margin-top: 11px;
     background-color: black;
 }
@@ -403,7 +403,7 @@
     /* left: 15.83%;
     right: 15.83%;
     top: calc(50% - 26px/2 + 184px); */
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     
     font-family: "Inter" , sans-serif;
     font-style: normal;
